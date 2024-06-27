@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samin-ops
-- 👀 I’m interested in Job.
-- 🌱 I’m full stack Developer Angular/NodeJs with Mongodb BDD.
-- 💞️ I’m looking to collaborate on an opensource projects
+- 👀 I’m loking for Jobs.
+- 🌱 I’m full-stack web Developer Angular/NodeJs, Express with Mysql BDD.
+- 💞️ I’m looking for a collaboration on an opensource projects
 - 📫 How to reach me, email :samexpertsg@gmail.com
 
 <!---

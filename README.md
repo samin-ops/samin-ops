@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samin-ops
-- 👀 I’m loking for Jobs.
+- 👀 I’m looking for Jobs.
 - 🌱 I’m full-stack web Developer Angular/NodeJs, Express with Mysql BDD.
 - 💞️ I’m looking for a collaboration on an opensource projects
 - 📫 How to reach me, email :samexpertsg@gmail.com
